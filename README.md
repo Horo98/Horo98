@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Martin Horodeski</h1>
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
 
+<h5 align="center">Soy un Desarrollador Full Stack de 21 años con experiencia académica trabajando en JavaScript, NodeJS, React, Redux, PostgreSQL, Express, CSS, HTML, Scrum entre otras tecnologías del sector. Soy una persona proactiva y de rápido aprendizaje con el objetivo de desarrollarme profesionalmente en el mundo de las TI. Me gusta trabajar en equipo para cumplir los objetivos propuestos por la empresa.</h5>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horo98&label=Profile%20views&color=0e75b6&style=flat" alt="horo98" /> </p>
 
 - 🔭 I’m currently working on [Barbers App](https://github.com/Horo98/PF-BARBER)
