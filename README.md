@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Horodeski</h1>
-<h3 align="center">A passionate FullStack developer from Argentina</h3>
+<h3 align="center">FullStack developer from Argentina</h3>
 
 <h3 align="center">Soy un Desarrollador Full Stack de 21 años con experiencia académica trabajando en JavaScript, NodeJS, React, Redux, PostgreSQL, Express, CSS, HTML, Scrum entre otras tecnologías del sector. Soy una persona proactiva y de rápido aprendizaje con el objetivo de desarrollarme profesionalmente en el mundo de las IT. Me gusta trabajar en equipo para cumplir los objetivos propuestos por la empresa.</h3>
 
