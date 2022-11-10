@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horo98&label=Profile%20views&color=0e75b6&style=flat" alt="horo98" /> </p>
 
-- 🔭 I’m currently working on [Barbers App](https://github.com/Horo98/PF-BARBER)
+- 🔭 Estoy trabajando en [Barbers App](https://github.com/Horo98/PF-BARBER)
 
-- 🌱 I’m currently learning **React, NodeJS**
-
-- 📫 How to reach me **martinhorodeski@gmail.com**
+- 📫 Contacto: **martinhorodeski@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
